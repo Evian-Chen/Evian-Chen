@@ -3,11 +3,12 @@
 Hello, I'm Evian!
 
 I'm currently a junior majoring in Computer Science and Information Engineering. 
-This GitHub page showcases my side projects, covering topics such as machine learning, deep learning, the implementation of various computer science concepts, and some daily coding practice.
+
+This GitHub page showcases my side projects, covering topics such as machine learning, deep learning, the implementation of various computer science concepts, and some daily coding practice. 💻
 
 - I'm passionate about AI research and software development.
 - I'm currently engaged in a language model experiment and a campus-industry data analysis project.
-- I'm planing to learn web application, web page, and API development in the near future.
+- I'm planing to learn application, web page, and API development in the near future.
 
 <!--
 **Evian-Chen/Evian-Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
