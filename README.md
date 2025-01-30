@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there! 🙌
+
+Hello, it's Evian!
+
+I'm now a junior student majored in computer science and information engineering.
+This GitHub page contains my side project, topics include machine/deep learning, backend skills, 
+
+- I'm interested
 
 <!--
 **Evian-Chen/Evian-Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
