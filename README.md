@@ -2,7 +2,7 @@
 
 Hello, I'm Evian!
 
-I'm currently a junior majoring in Computer Science and Information Engineering. 
+I'm a junior student majoring in Computer Science and Information Engineering. 
 
 This GitHub page showcases my side projects, covering topics such as machine learning, deep learning, the implementation of various computer science concepts, and some daily coding practice. 💻
 
