@@ -1,4 +1,4 @@
-## Hi there! 🙌
+## Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 
 Hello, I'm Evian!
 
@@ -9,6 +9,8 @@ This GitHub page showcases my side projects, covering topics such as machine lea
 - I'm passionate about AI research and software development.
 - I'm currently engaged in a language model experiment and a campus-industry data analysis project.
 - I'm planing to learn application, web page, and API development in the near future.
+
+Feel free to contact me! <img src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif?1680554188" width="30"/>
 
 <!--
 **Evian-Chen/Evian-Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
