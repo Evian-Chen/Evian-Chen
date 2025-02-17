@@ -7,8 +7,8 @@ I'm a junior student majoring in Computer Science and Information Engineering.
 This GitHub page showcases my side projects, covering topics such as machine learning, deep learning, the implementation of various computer science concepts, and some daily coding practice. 💻
 
 - I'm passionate about AI research and software development.
-- I'm currently engaged in a language model experiment and a campus-industry data analysis project.
-- I'm planing to learn application, web page, and API development in the near future.
+- I'm currently engaged in a LLM experiment and a campus-industry data analysis project.
+- I'm now learning web and application development.
 
 Feel free to contact me! 
 
