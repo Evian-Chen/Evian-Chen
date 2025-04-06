@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif?1680554188" width="30"/> 
 
-Hello, I'm Evian!
+Hello, I'm Evian :D
 
 I'm a junior student majoring in Computer Science and Information Engineering. 
 
